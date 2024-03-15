@@ -1,0 +1,3 @@
+My First line using the append a+My First line using the append a+This is an Added Line, Because I Used a+ Mode
+This is a real new line, on the next line :D
+ This is a real new line, on the next line 
